@@ -1,6 +1,7 @@
 {
   "name": "Reddotlabs mock",
   "timestamp": "2022-02-07T03:00:00.000+00:00",
+  "logoURI": "https://raw.githubusercontent.com/h3xag0nx/assets/main/logo-reddot.png",
   "version": {
     "major": 1,
     "minor": 0,
