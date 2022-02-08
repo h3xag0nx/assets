@@ -1,5 +1,5 @@
 {
-  "name": "Reddotlabs mock tokens",
+  "name": "Reddotlabs mock",
   "timestamp": "2022-02-07T03:00:00.000+00:00",
   "version": {
     "major": 1,
@@ -11,7 +11,7 @@
       "logoURI": "https://raw.githubusercontent.com/h3xag0nx/assets/master/token-list/assets/asset_USDT.svg",
       "chainId": 42,
       "address": "0x5be56f87FfCEC5245dE7c9c2C88c068734E649d7",
-      "name": "Tether (·)",
+      "name": "Tether (RD)",
       "symbol": "rdUSDT",
       "decimals": 6
     },
@@ -19,7 +19,7 @@
       "logoURI": "https://raw.githubusercontent.com/h3xag0nx/assets/master/token-list/assets/asset_USDC.svg",
       "chainId": 42,
       "address": "0xcB6F356Fb0B7bb57daa6aC96B40C667455Bf35A2",
-      "name": "USD coin (·)",
+      "name": "USD coin (RD)",
       "symbol": "rdUSDC",
       "decimals": 6
     },
@@ -27,7 +27,7 @@
       "logoURI": "https://raw.githubusercontent.com/h3xag0nx/assets/master/token-list/assets/asset_DAI.svg",
       "chainId": 42,
       "address": "0xe7d561F94489851380f98B17c3ebDe1E058F137c",
-      "name": "DAI stable coin (·)",
+      "name": "DAI stable coin (RD)",
       "symbol": "rdDAI",
       "decimals": 18
     }
