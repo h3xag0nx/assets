@@ -10,7 +10,7 @@
     {
       "logoURI": "https://raw.githubusercontent.com/h3xag0nx/assets/master/token-list/assets/asset_USDT.svg",
       "chainId": 42,
-      "address": "0x5be56f87FfCEC5245dE7c9c2C88c068734E649d7",
+      "address": "0x577E777924f36A73C3625D443f080E0FaD2fec00",
       "name": "Tether (RD)",
       "symbol": "rdUSDT",
       "decimals": 6
@@ -18,7 +18,7 @@
     {
       "logoURI": "https://raw.githubusercontent.com/h3xag0nx/assets/master/token-list/assets/asset_USDC.svg",
       "chainId": 42,
-      "address": "0xcB6F356Fb0B7bb57daa6aC96B40C667455Bf35A2",
+      "address": "0xB36573d7B9449a72C1c22e1fb62fe064E8c0aF98",
       "name": "USD coin (RD)",
       "symbol": "rdUSDC",
       "decimals": 6
